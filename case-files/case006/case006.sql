@@ -1,11 +1,3 @@
-/** 
-    Case # 006: The Vanishing Diamond
-    
-    At Miami’s prestigious Fontainebleau Hotel charity gala, the famous “Heart of Atlantis” diamond necklace suddenly disappeared from its display.
-
-    Objective: Find who stole the diamond.
-**/
-
 /*  check crime_scene for crime description 
     based on location provided
     clues acquired: 2 valuable witnesses
